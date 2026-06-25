@@ -1,6 +1,7 @@
 .nav-link {
     font-weight: 500;
     line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -13,6 +14,8 @@
 .address-link {
     color: #434455;
     line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style: normal;
 }
 .address-link:hover,
 .address-link:focus {
