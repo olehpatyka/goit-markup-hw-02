@@ -16,6 +16,7 @@
     cursor: pointer;
 }
 
-.main-btn:hover {
+.main-btn:hover,
+.main-btn:focus {
     background-color: #404bbf;
 }
